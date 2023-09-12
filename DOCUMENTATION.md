@@ -53,7 +53,7 @@ I provided an output with the website domain, which is the endpoint where the st
 #### Outcome: 
 The website domain endpoint is provided for reference.
 [Link to static hosting website](
-teleclinic-app-bucket-assignment.s3-website-us-east-1.amazonaws.com)
+http://teleclinic-app-bucket-assignment.s3-website-us-east-1.amazonaws.com/)
 
 
 ## Usage
